@@ -1,0 +1,16 @@
+.image {
+    height: 280px;
+    width: 280px;
+    background-image: url('../assets/img/water-glass.svg');
+    display: flex;
+    align-items: center;
+    justify-content: center;  
+    &__counter {
+      display: flex;
+      font-family: Roboto;
+      font-size: 112px;
+      font-weight: 800;
+      color: #000000;
+      margin-top: 48px;   
+    }
+  }
