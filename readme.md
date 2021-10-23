@@ -1,12 +1,15 @@
-![cover](https://cotenfrontend.pl/img/cover.png)
+![cover](https://kamil109111.github.io/hydrapp/hydrapp-cover.png)
 
-# WTF Webpack Starter Kit 
+# Hydrapp
 
-Simple toolkit for your static websites development.
+Simple app for counting glasses of water
 
-## How to use it?
+## Tools
 
-Click on `Use this template` button to generate a new repository based on this starter kit. After that clone it to your computer, go to the project directory in console and type `npm install`.
+- WTF Webpack starterkit
+- HTML + CSS + JS
+- Local storage
+- PWA
 
 ## Available scripts
 
